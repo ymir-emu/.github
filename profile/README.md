@@ -16,6 +16,7 @@ Ymir is a work-in-progress Sega Saturn emulator for Windows, macOS, Linux, and F
 - [Latest Stable Release](https://github.com/ymir-emu/Ymir/releases/latest)
 - [Latest Nightly Build](https://github.com/ymir-emu/Ymir/releases/tag/latest-nightly)
 - [Compatibility Spreadsheet](https://docs.google.com/spreadsheets/d/1SLZzL9LelSlpEmTKy8cjaQnE7mew2uW1rfCgcekO58Q/edit?usp=sharing)
+- [Graphical Regression Tracker](https://emu.layle.dev/ymir)
 - [Discord Server](https://discord.gg/NN3A7n5dzn)
 - [Troubleshooting Guide](https://github.com/ymir-emu/Ymir/blob/main/TROUBLESHOOTING.md)
 - [Build Instructions](https://github.com/ymir-emu/Ymir/blob/main/COMPILING.md)
